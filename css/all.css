@@ -7,10 +7,9 @@ img{
     background-color: gold
 }
 
-table{
-    width: 100%;
-    border: 3px solid green;
-    border-collapse: collapse;
+h1{
+    color: red;
+
 }
 
 td,th{
